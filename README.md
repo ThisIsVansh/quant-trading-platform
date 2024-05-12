@@ -1,14 +1,20 @@
 # 🚀 Personal Trading System Project
+# Welcome to Your New Favorite Playground for Stock Market Wizards! 🎩✨
 
-Welcome to Your New Favorite Playground for Stock Market Wizards!
-Ever wondered how to blend the art of finance with the science of data? Look no further! 🎩✨ Our Personal Trading System Project is here to turn you into the sorcerer of stock markets. Built with the coolest tech stack and designed for maximum fun, this project lets you automate, analyze, and awe at your portfolio's prowess—all with a few clicks!
+Ever wondered how to blend the art of finance with the science of data? Look no further! Our Personal Trading System Project is here to turn you into the sorcerer of stock markets. Built with the coolest tech stack and designed for maximum fun, this project lets you automate, analyze, and awe at your portfolio's prowess—all with a few clicks!
 
-Why You'll Love This
-🤖 Daily Trading Magic: Set up spells (a.k.a. algorithms) to make the market work for you while you sip that coffee.
-📊 Data Science Mastery: Dive deep into the waves of data with our robust machine learning models.
-🌐 Cool Web Interface: Who said trading was boring? Adjust your strategies with our slick, user-friendly dashboard.
-🧙‍♂️ Hands-On Learning: With open source tools, learn, tweak, and transform the code. No black boxes here!
-Set Up Like a Snap! 🌟
+## Why You'll Love This
+
+🤖 **Daily Trading Magic**: Set up spells (a.k.a. algorithms) to make the market work for you while you sip that coffee.
+
+📊 **Data Science Mastery**: Dive deep into the waves of data with our robust machine learning models.
+
+🌐 **Cool Web Interface**: Who said trading was boring? Adjust your strategies with our slick, user-friendly dashboard.
+
+🧙‍♂️ **Hands-On Learning**: With open source tools, learn, tweak, and transform the code. No black boxes here!
+
+## Set Up Like a Snap! 🌟
+
 Our goal? To get you started with as little hassle as possible. Here's how you can unleash the power of your new trading system:
 
 Step 1: Clone the Magic Repository
@@ -31,11 +37,11 @@ uvicorn app.main:app --reload
 ```
 Now, open your browser and go to http://localhost:8000. Voilà! Your trading dashboard is ready to roll!
 
-Take a Tour 🗺️
+## Taking a Tour 🗺️
 Here's how we've organized our magical workshop:
 
 ```
-/personal-trading-system
+/quant-trading-platform
 |-- pyproject.toml               # Poetry for dependency management
 |-- poetry.lock                  # Ensures consistent installs
 |-- /app                         # Main application folder
