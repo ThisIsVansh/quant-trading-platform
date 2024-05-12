@@ -1,4 +1,5 @@
-🚀 Personal Trading System Project
+# 🚀 Personal Trading System Project
+
 Welcome to Your New Favorite Playground for Stock Market Wizards!
 Ever wondered how to blend the art of finance with the science of data? Look no further! 🎩✨ Our Personal Trading System Project is here to turn you into the sorcerer of stock markets. Built with the coolest tech stack and designed for maximum fun, this project lets you automate, analyze, and awe at your portfolio's prowess—all with a few clicks!
 
